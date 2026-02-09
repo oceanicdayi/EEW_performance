@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+
+# Data files
+*.dat
+data.dat
+
+# Output files
+outputs/
+*.png
+*.csv
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PyGMT cache
+.gmt/
+
+# Log files
+*.log
+
+# Intermediate processing files
+dis_pro_time
+dot
+miss
+dis_loc_err
+no
+yes
+dot_dis_err
+cmag_emag
+dis_loc_err_last
+cmag_emag_last
+dis_pro_time_last
+pro_time_*
+time_txt1
+mag_line_std
+mag_txt

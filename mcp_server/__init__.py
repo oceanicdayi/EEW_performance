@@ -1,0 +1,1 @@
+# EEWS Analyzer MCP Server

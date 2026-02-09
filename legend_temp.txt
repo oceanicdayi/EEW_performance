@@ -1,0 +1,3 @@
+S 0.3c c 0.3c yellow 0.5p,black 0.6c Catalog Location
+S 0.3c t 0.25c blue 0.5p,black 0.6c EEW Location
+S 0.3c - 0.5c red 1p,red 0.6c Location Error
